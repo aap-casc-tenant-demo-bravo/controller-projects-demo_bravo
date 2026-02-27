@@ -1,0 +1,16 @@
+{
+    "controller_projects": [
+        {
+            "default_environment": "Default execution environment",
+            "description": "Example project \u2014 replace with your automation use-case",
+            "name": "prj-demo_bravo-example",
+            "organization": "org-demo_bravo",
+            "scm_branch": "main",
+            "scm_clean": false,
+            "scm_delete_on_update": true,
+            "scm_type": "git",
+            "scm_update_on_launch": false,
+            "scm_url": "https://github.com/playbooks-demo_bravo-example.git"
+        }
+    ]
+}
